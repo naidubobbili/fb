@@ -1,1 +1,1 @@
-web: gunicorn my_pros.wsgi
+web: gunicorn fburl.wsgi
